@@ -94,7 +94,7 @@ namespace cursoC_Sharp
                 Console.WriteLine($"DEQUEUE: {word}");
             }
             Console.ReadKey();
-            Console.Read();
+            
         }
     }
 }
