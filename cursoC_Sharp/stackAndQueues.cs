@@ -33,7 +33,7 @@ namespace cursoC_Sharp
                 Console.WriteLine($"Pop : {word}");
             }
             Console.WriteLine($"La cantidad de elementos que hay es de {greetingStack.Count}");
-            Console.ReadLine();
+            Console.ReadKey();
 
             //usando peek
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -44,7 +44,7 @@ namespace cursoC_Sharp
 
             counter = greetingStack.Count;
             Console.WriteLine($"La cantidad de elemntos en el stack es de {counter}");
-            Console.ReadLine();
+            Console.ReadKey();
 
             for (int i = 0; i < counter; i++)
             {
@@ -55,7 +55,7 @@ namespace cursoC_Sharp
                 Console.WriteLine($"Pop : {word}");
             }
             Console.WriteLine($"La cantidad de elementos que hay es de {greetingStack.Count}");
-            Console.ReadLine();
+            Console.ReadKey();
 
 
             //usando CONTAINS Y CLEAR
@@ -73,6 +73,27 @@ namespace cursoC_Sharp
             Console.WriteLine($"Esta es la cantidad de elementos que contiene el stack luego de clear {greetingStack.Count}");
             Console.ReadKey();
 
+
+            //COLAS
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Queue greetingQueue = new Queue();
+            greetingQueue.Enqueue("Hola");
+            greetingQueue.Enqueue("buenos");
+            greetingQueue.Enqueue("dias");
+
+            counter = greetingQueue.Count;
+            Console.WriteLine($"Hay {greetingQueue.Count} elementos en la cola");
+
+            for (int i = 0; i < counter; i++)
+            {
+                word = (string)greetingQueue.Peek();
+                Console.WriteLine($"El siguiente elemento de la cola es {word}");
+
+                word = (string)greetingQueue.Dequeue();
+                Console.WriteLine($"DEQUEUE: {word}");
+            }
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\bin\Debug\net6.0\cursoC_Sharp.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\bin\Debug\net6.0\cursoC_Sharp.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\bin\Debug\net6.0\cursoC_Sharp.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\bin\Debug\net6.0\cursoC_Sharp.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\bin\Debug\net6.0\cursoC_Sharp.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\refint\cursoC_Sharp.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\cursoC_Sharp.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\cursoC_Sharp\obj\Debug\net6.0\ref\cursoC_Sharp.dll
