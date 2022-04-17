@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace cursoC_Sharp
 {
     public class stackAndQueues
-    {
+    { /*
         public static void Main(string[] args)
         {
             //pilas
@@ -93,8 +93,12 @@ namespace cursoC_Sharp
                 word = (string)greetingQueue.Dequeue();
                 Console.WriteLine($"DEQUEUE: {word}");
             }
+            Console.WriteLine($"Los elementos que quedan en la cola luego del DEQUEUE son {greetingQueue.Count}");
             Console.ReadKey();
             
-        }
+
+            
+            
+        } */
     }
 }
