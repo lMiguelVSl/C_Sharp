@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\bin\Debug\net6.0\cursoC_Sharp_POO.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\bin\Debug\net6.0\cursoC_Sharp_POO.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\bin\Debug\net6.0\cursoC_Sharp_POO.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\bin\Debug\net6.0\cursoC_Sharp_POO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\bin\Debug\net6.0\cursoC_Sharp_POO.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\refint\cursoC_Sharp_POO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\cursoC_Sharp_POO.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POO\obj\Debug\net6.0\ref\cursoC_Sharp_POO.dll

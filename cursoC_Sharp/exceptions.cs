@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace cursoC_Sharp
 {
     public class exceptions
-    {
+    { /*
         static void Main(string[] args)
         {
             Console.Write("Por favor introduce un número para dividir 100: ");
@@ -27,6 +27,6 @@ namespace cursoC_Sharp
             {
                 throw new ApplicationException($"Se ha generado una excepción del tipo {ex.GetType().Name}");
             }
-        }
+        } */
     }
 }
