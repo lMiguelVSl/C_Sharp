@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace cursoC_Sharp
 {
     public class anotherCollections
-    {
+    { /*
         public static void Main(string[] args)
         {
             //HashSet no permite el ingreso de objetos repetidos
@@ -54,6 +54,6 @@ namespace cursoC_Sharp
                 Console.WriteLine(item);
             }
 
-        }
+        } */
     }
 }
