@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace cursoC_Sharp
 {
     public class listPractice
-    {
+    { /*
         public static void Main(string[] args)
         {
             //crear instancias de una lista
@@ -65,7 +65,7 @@ namespace cursoC_Sharp
 
         }
 
-
+        */
 
     }
 }
