@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace cursoC_Sharp_POO
-{
+{ /*
     class encapsulacion
     {
         static void Main(string[] args)
@@ -51,5 +51,5 @@ namespace cursoC_Sharp_POO
         }
 
         //una clase puede tener una sobre carga de metodos
-    }
+    }*/
 }
