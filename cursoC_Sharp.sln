@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoC_Sharp", "cursoC_Sharp\cursoC_Sharp.csproj", "{3A009892-2573-4ED8-B1F4-E01807954601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoC_Sharp_POO", "POO\cursoC_Sharp_POO.csproj", "{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoC_Sharp_POO", "POO\cursoC_Sharp_POO.csproj", "{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeClassEncapsulationInheritance", "PracticeClassEncapsulationInheritance\PracticeClassEncapsulationInheritance.csproj", "{E5029F28-759F-4960-945D-27102D77F1FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5029F28-759F-4960-945D-27102D77F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5029F28-759F-4960-945D-27102D77F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5029F28-759F-4960-945D-27102D77F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5029F28-759F-4960-945D-27102D77F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

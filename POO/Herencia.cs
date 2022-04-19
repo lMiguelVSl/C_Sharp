@@ -49,9 +49,9 @@ namespace cursoC_Sharp_POO
         }
         //invalidar un metodo no virtual
         //public override void NotVirtualMethod() no permite sustituir ya que el metodo es no virtual
-        {
+       // {
             //codigo que sustituye el metodo base
-        }
+       // }
         //metodo para variable private
         public int getValue()
         {
