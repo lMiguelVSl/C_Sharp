@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\bin\Debug\net6.0\PracticeClassEncapsulationInheritance.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\bin\Debug\net6.0\PracticeClassEncapsulationInheritance.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\bin\Debug\net6.0\PracticeClassEncapsulationInheritance.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\bin\Debug\net6.0\PracticeClassEncapsulationInheritance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\bin\Debug\net6.0\PracticeClassEncapsulationInheritance.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\refint\PracticeClassEncapsulationInheritance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\PracticeClassEncapsulationInheritance.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticeClassEncapsulationInheritance\obj\Debug\net6.0\ref\PracticeClassEncapsulationInheritance.dll

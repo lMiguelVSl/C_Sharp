@@ -15,7 +15,7 @@ namespace PracticeClassEncapsulationInheritance
 
         public string Publisher {get;} //se declara la propiedad para publicar solo para obtener mas no modificarla
         public string  Title {get;} //se obtiene el titulo
-        public Publication Type { get;} //tipo de publicacion
+        public PublicationType Type { get;} //tipo de publicacion
         public string CopyRightName { get;private set; }
         public int CopyRightDate { get; private set; }
         public int Pages //metodo de paginas para poder acceder a la propiedad totalpages ya que es privada (encapsulacion)
@@ -33,7 +33,7 @@ namespace PracticeClassEncapsulationInheritance
                 }
             }
         }
-        public Publication(string publisher,string title, PublicationType type) //constructor de la publicacion
+        public Publication(string title,string publisher, PublicationType type) //constructor de la publicacion
         {
             if (String.IsNullOrWhiteSpace(publisher)) //si se tiene un valor nulo o espacio en blanco en publicador
             {
@@ -44,9 +44,9 @@ namespace PracticeClassEncapsulationInheritance
             {
                 throw new ArgumentException("El titulo es requerido"); //aviso
             }
-            this.Title = title; //se guarda en el atributo Title
+            Title = title; //se guarda en el atributo Title
 
-            this.Type = type;
+            Type = type;
         }
         public string GetPublicationDate()
         {
