@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\bin\Debug\net6.0\QuizPOO.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\bin\Debug\net6.0\QuizPOO.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\bin\Debug\net6.0\QuizPOO.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\bin\Debug\net6.0\QuizPOO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\bin\Debug\net6.0\QuizPOO.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\refint\QuizPOO.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\QuizPOO.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\QuizPOO\obj\Debug\net6.0\ref\QuizPOO.dll

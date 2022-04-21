@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoC_Sharp", "cursoC_Shar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoC_Sharp_POO", "POO\cursoC_Sharp_POO.csproj", "{FD965E56-0EE0-4E29-AED8-9FE6ED1D3447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeClassEncapsulationInheritance", "PracticeClassEncapsulationInheritance\PracticeClassEncapsulationInheritance.csproj", "{E5029F28-759F-4960-945D-27102D77F1FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeClassEncapsulationInheritance", "PracticeClassEncapsulationInheritance\PracticeClassEncapsulationInheritance.csproj", "{E5029F28-759F-4960-945D-27102D77F1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizPOO", "QuizPOO\QuizPOO.csproj", "{13A47C01-353D-4DE7-9748-B90C7C2DD09B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E5029F28-759F-4960-945D-27102D77F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5029F28-759F-4960-945D-27102D77F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5029F28-759F-4960-945D-27102D77F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A47C01-353D-4DE7-9748-B90C7C2DD09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A47C01-353D-4DE7-9748-B90C7C2DD09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A47C01-353D-4DE7-9748-B90C7C2DD09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A47C01-353D-4DE7-9748-B90C7C2DD09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
