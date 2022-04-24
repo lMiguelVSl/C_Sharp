@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\bin\Debug\net6.0\RecordTypeExample.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\bin\Debug\net6.0\RecordTypeExample.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\bin\Debug\net6.0\RecordTypeExample.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\bin\Debug\net6.0\RecordTypeExample.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\bin\Debug\net6.0\RecordTypeExample.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\refint\RecordTypeExample.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\RecordTypeExample.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\RecordTypeExample\obj\Debug\net6.0\ref\RecordTypeExample.dll
