@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPOO", "QuizPOO\QuizPOO.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypeExample", "RecordTypeExample\RecordTypeExample.csproj", "{63C14056-2ED1-42C6-A1E7-9E248FFFD364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_E_SConsole", "Practice_E_SConsole\Practice_E_SConsole.csproj", "{A37A3A62-7482-425B-9B35-6D04FB5DD64D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{63C14056-2ED1-42C6-A1E7-9E248FFFD364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63C14056-2ED1-42C6-A1E7-9E248FFFD364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63C14056-2ED1-42C6-A1E7-9E248FFFD364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

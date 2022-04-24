@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\bin\Debug\net6.0\Practice_E_SConsole.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\bin\Debug\net6.0\Practice_E_SConsole.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\bin\Debug\net6.0\Practice_E_SConsole.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\bin\Debug\net6.0\Practice_E_SConsole.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\bin\Debug\net6.0\Practice_E_SConsole.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\refint\Practice_E_SConsole.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\Practice_E_SConsole.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\Practice_E_SConsole\obj\Debug\net6.0\ref\Practice_E_SConsole.dll
