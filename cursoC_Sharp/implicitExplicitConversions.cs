@@ -49,7 +49,7 @@ namespace cursoC_Sharp
                 intNumber = checked((int)num1);//checked es para la comprobacion de desbordamiento, conversion explicita es el (int)
                 Console.WriteLine($"After bring a value {num1.GetType().Name}, the decimal value is: {intNumber}");
             }
-            catch (OverflowException) //debe de existir la excepcion ya que le asignamos un valor que excede el limite de long 
+            catch (OverflowException) //debe de existir la excepcion ya que le asignamos un valor que excede el limite de long  
             {
                 if (num1 > int.MaxValue)
                     Console.WriteLine($"Failed convertion {num1} exceed {int.MaxValue}");
