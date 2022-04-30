@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeClassEncapsulationI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPOO", "QuizPOO\QuizPOO.csproj", "{13A47C01-353D-4DE7-9748-B90C7C2DD09B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypeExample", "RecordTypeExample\RecordTypeExample.csproj", "{63C14056-2ED1-42C6-A1E7-9E248FFFD364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypeExample", "RecordTypeExample\RecordTypeExample.csproj", "{63C14056-2ED1-42C6-A1E7-9E248FFFD364}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_E_SConsole", "Practice_E_SConsole\Practice_E_SConsole.csproj", "{A37A3A62-7482-425B-9B35-6D04FB5DD64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_E_SConsole", "Practice_E_SConsole\Practice_E_SConsole.csproj", "{A37A3A62-7482-425B-9B35-6D04FB5DD64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{EC91AAF7-49D4-4FE2-8863-57B63D9154F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37A3A62-7482-425B-9B35-6D04FB5DD64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC91AAF7-49D4-4FE2-8863-57B63D9154F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC91AAF7-49D4-4FE2-8863-57B63D9154F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC91AAF7-49D4-4FE2-8863-57B63D9154F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC91AAF7-49D4-4FE2-8863-57B63D9154F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
