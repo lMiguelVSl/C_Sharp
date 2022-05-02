@@ -19,9 +19,9 @@ namespace QuizPOO
         }
         public Employee (int _EmployeeId, string fullName, int age) : base(fullName,age)
         {
-            this.employeeId = _EmployeeId;
-            this.FullName = fullName;
-            this.Age = age;
+            employeeId = _EmployeeId;
+            FullName = fullName;
+            Age = age;
         }
           
 

@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\bin\Debug\net6.0\POOIntermediateAdvance.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\bin\Debug\net6.0\POOIntermediateAdvance.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\bin\Debug\net6.0\POOIntermediateAdvance.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\bin\Debug\net6.0\POOIntermediateAdvance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\bin\Debug\net6.0\POOIntermediateAdvance.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\refint\POOIntermediateAdvance.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\POOIntermediateAdvance.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\POOIntermediateAdvance\obj\Debug\net6.0\ref\POOIntermediateAdvance.dll
