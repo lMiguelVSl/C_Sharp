@@ -1,0 +1,3 @@
+﻿
+
+Delegates.Delegates.UseDelegate();
