@@ -18,7 +18,39 @@ namespace Delegates
             calc = Multiply; //le asigno el segundo metodo al delegado 
             Console.WriteLine("The result of {0} * {1} is: " + calc(3, 4),3,4);
         }
+
+
+
+
+
+        //multicast para ver como le asigno varios metodos al mismo delegado 
+        //para ver cuantos metodos va a llamar el delegado usamos => "int count=del.GetInvocationList().GetLength(0);
+        public static void MulticastMain()
+        {
+            MulticastClass multicastClass = new(); //creo la clase
+            multicastClass.Multicast(); //ejecuto el metodo en la clase creada
+        }
     }
 
-  
+    public class MulticastClass
+    { //creo los metodos 
+        public void MethodOne()
+        {
+            Console.WriteLine("method one");
+        }
+        public void MethodTwo()
+        {
+            Console.WriteLine("Methos two");
+        }
+        public delegate void Delegate(); //creo el delegado
+        public void Multicast()
+        {
+            Delegate d =MethodOne; //creo la instancia del delegado con el nombre d y le asigno el primer valor que en este caso es un metodo
+            d += MethodTwo; //le asigno el segundo metodo al mismo delegado
+            d(); //ejecuto el delegado
+
+        }
+    }
+
+    
 }
