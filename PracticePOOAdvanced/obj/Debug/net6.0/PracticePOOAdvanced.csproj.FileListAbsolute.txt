@@ -1,0 +1,15 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\bin\Debug\net6.0\PracticePOOAdvanced.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\bin\Debug\net6.0\PracticePOOAdvanced.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\bin\Debug\net6.0\PracticePOOAdvanced.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\bin\Debug\net6.0\PracticePOOAdvanced.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\bin\Debug\net6.0\PracticePOOAdvanced.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\refint\PracticePOOAdvanced.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\PracticePOOAdvanced.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\PracticePOOAdvanced\obj\Debug\net6.0\ref\PracticePOOAdvanced.dll
