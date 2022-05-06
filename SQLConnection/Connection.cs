@@ -12,9 +12,10 @@ namespace SQLConnectionExample
     {
         public static void sqlConnectionMain()
         {
-            string connectionString = "Server=localhost;Database=personas;UID=mavs;PWD=password;"; //ubicacion de base de datos
+            string connectionString = "Server=localhost;Database=CursoC#;UID=mavs;PWD=password;"; //ubicacion de base de datos
             using (SqlConnection connection = new SqlConnection(connectionString) )
             {
+                
                 connection.Open();
                 //aqui ejecutamos la operacion de la base de datos
             } //automaticamente se cierra la base de datos con IDisposable 
