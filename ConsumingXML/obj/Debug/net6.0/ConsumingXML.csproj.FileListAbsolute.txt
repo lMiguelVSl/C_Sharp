@@ -1,0 +1,16 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\ConsumingXML.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\people.xml
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\ConsumingXML.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\ConsumingXML.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\ConsumingXML.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\bin\Debug\net6.0\ConsumingXML.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\refint\ConsumingXML.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ConsumingXML.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingXML\obj\Debug\net6.0\ref\ConsumingXML.dll
