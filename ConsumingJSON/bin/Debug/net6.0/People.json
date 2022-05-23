@@ -1,0 +1,21 @@
+{
+  "People":
+  {
+    "Person": 
+    [
+      {
+        "firstName": "Sergio",
+        "lastName": "Peralta",
+        "ContactDetails": { "EmailAddress": "mavs@hotmail.com" }
+      },
+      {
+        "firstName": "Miguelinho",
+        "lastName": "vargas",
+        "ContactDetails": {
+          "EmailAddress": "Vargas@hotmailcom",
+          "PhoneNumber": "3245436678"
+        }
+      }
+    ]
+  }
+}

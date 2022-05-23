@@ -1,0 +1,16 @@
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\ConsumingJSON.exe
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\ConsumingJSON.deps.json
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\ConsumingJSON.runtimeconfig.json
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\ConsumingJSON.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\ConsumingJSON.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.AssemblyInfo.cs
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\refint\ConsumingJSON.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.pdb
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ConsumingJSON.genruntimeconfig.cache
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\obj\Debug\net6.0\ref\ConsumingJSON.dll
+C:\Users\sanch\source\repos\cursoC_Sharp\ConsumingJSON\bin\Debug\net6.0\People.json

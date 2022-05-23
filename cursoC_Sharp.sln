@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticePOOAdvanced", "Prac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLConnection", "SQLConnection\SQLConnection.csproj", "{407508D2-E76A-45C1-9151-654C64BA1EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingXML", "ConsumingXML\ConsumingXML.csproj", "{7C21B058-3E19-465A-BF23-46F5866E4EEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumingXML", "ConsumingXML\ConsumingXML.csproj", "{7C21B058-3E19-465A-BF23-46F5866E4EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingJSON", "ConsumingJSON\ConsumingJSON.csproj", "{EE4A68EE-25B6-400F-B4F1-15EADB309F1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{7C21B058-3E19-465A-BF23-46F5866E4EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C21B058-3E19-465A-BF23-46F5866E4EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C21B058-3E19-465A-BF23-46F5866E4EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4A68EE-25B6-400F-B4F1-15EADB309F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4A68EE-25B6-400F-B4F1-15EADB309F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4A68EE-25B6-400F-B4F1-15EADB309F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4A68EE-25B6-400F-B4F1-15EADB309F1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,8 @@ namespace ConsumingXML
             //ReadingXML.ReadingXMLMain();
             //Console.WriteLine(" ");
             //CreatingXML.CallingCreating();
-            ReadWriteXML.ReadWriteMain();
+            //ReadWriteXML.ReadWriteMain();
+            ReadWithPath.ReadWithPathMain();
         }
     }
 }

@@ -15,7 +15,7 @@ namespace ConsumingXML
             XmlDocument doc = new XmlDocument(); //created the xml document
             doc.LoadXml(File.ReadAllText("people.xml")); //charging the xmldocument that already exist
             XPathNavigator nav = doc.CreateNavigator(); //creating the path navigator into the xmlDocument
-            string query = "//people/person[@firstName='Miguel']"; //query
+            string query = "//people/person[@firstName='Sergio']"; //query
             XPathNodeIterator iterator = nav.Select(query); //excecuting the query
             Console.WriteLine(iterator.Count); //show the size of the iterator
             while (iterator.MoveNext()) 
