@@ -11,21 +11,21 @@ namespace ConsumingXML
     {
         static void CreatingXMLMain()
         {
-            StringWriter stream = new StringWriter();
+            StringWriter stream = new StringWriter(); 
             using (XmlWriter writer = XmlWriter.Create(stream, new XmlWriterSettings() { Indent=true}))
             {
-                writer.WriteStartDocument();
-                writer.WriteStartElement("People");
-                writer.WriteStartElement("Person");
-                writer.WriteAttributeString("firstName","Miguel");
-                writer.WriteAttributeString("lastName", "Vargas");
-                writer.WriteStartElement("ContactDetails");
-                writer.WriteElementString("EmailAddress", "vargas@hotmail.com");
+                writer.WriteStartDocument(); //document head 
+                writer.WriteStartElement("People"); //primer nodo
+                writer.WriteStartElement("Person"); //nodo dentro del primer nodo
+                writer.WriteAttributeString("firstName","Miguel"); //nombre y valor del atributo
+                writer.WriteAttributeString("lastName", "Vargas"); //nombre y valor del atributo
+                writer.WriteStartElement("ContactDetails"); //elemento dentro del nodo
+                writer.WriteElementString("EmailAddress", "vargas@hotmail.com"); //string dentro del elemento
                 writer.WriteEndElement();
-                writer.WriteEndElement();
+                writer.WriteEndElement(); //cierro los nodos
                 writer.Flush();
             }
-            Console.WriteLine(stream.ToString());
+            Console.WriteLine(stream.ToString()); 
             Console.ReadKey();
         }
         public static void CallingCreating()
