@@ -7,9 +7,10 @@ namespace ConsumingXML
     {
         static void Main(string[] args)
         {
-            ReadingXML.ReadingXMLMain();
-            Console.WriteLine(" ");
-            CreatingXML.CallingCreating();
+            //ReadingXML.ReadingXMLMain();
+            //Console.WriteLine(" ");
+            //CreatingXML.CallingCreating();
+            ReadWriteXML.ReadWriteMain();
         }
     }
 }

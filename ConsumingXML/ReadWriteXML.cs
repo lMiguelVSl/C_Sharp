@@ -21,10 +21,20 @@ namespace ConsumingXML
                 string lastName = node.Attributes["lastName"].Value;
                 Console.WriteLine($"First Name: {firsName}, last Name: {lastName}");
             }
-
+            Console.ReadKey();
 
             //star creating a new node
-
+            XmlNode newNode = xmlDoc.CreateNode(XmlNodeType.Element, "person","");
+            XmlAttribute firstNameAttribute = xmlDoc.CreateAttribute("firstName");
+            firstNameAttribute.Value = "Miguel";
+            XmlAttribute lastNameAttribute = xmlDoc.CreateAttribute("lastName");
+            lastNameAttribute.Value = "Vargas";
+            newNode.Attributes.Append(firstNameAttribute);
+            newNode.Attributes.Append(lastNameAttribute);
+            xmlDoc.DocumentElement.AppendChild(newNode);
+            Console.WriteLine("Modified XML...");
+            xmlDoc.Save(Console.Out);
+            Console.ReadKey();
         }
         
     }
